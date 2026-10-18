@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://tansi.store/</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://tansi.store/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tansi.store/" />
+    <xhtml:link rel="alternate" hreflang="my" href="https://tansi.store/my/" />
+  </url>
+  <url>
+    <loc>https://tansi.store/my/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tansi.store/" />
+    <xhtml:link rel="alternate" hreflang="my" href="https://tansi.store/my/" />
+  </url>
 </urlset>

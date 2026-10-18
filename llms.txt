@@ -89,3 +89,4 @@ Only your shop. Every shop's data is kept apart, chat app credentials are encryp
 ## Links
 
 - [Tansi](https://tansi.store/)
+- [Tansi in Burmese (မြန်မာ)](https://tansi.store/my/)
