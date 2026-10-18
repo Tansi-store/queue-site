@@ -1,0 +1,91 @@
+# Tansi
+
+> Give every guest a live ticket from a QR or your shop's LINE, Messenger or Telegram. Call them in one tap, take orders at the table, get paid, count your stock, close the day for your accountant and bring regulars back — in one app.
+
+Every guest gets a live ticket from a QR at your door or your shop's LINE, Messenger or Telegram. They watch their place, come back when you call, order from the table and earn points when they pay — and the stock, the cash and the books add up behind them.
+
+## How it works
+
+1. **They take a ticket.** They scan the QR at your door or tap Take a queue in your shop's LINE. Party size is the whole form.
+2. **They wait wherever they like.** The ticket updates live, so nobody crowds your door. Their chat says when they're nearly up.
+3. **One tap calls them in.** Their ticket turns green and chimes, and your TV shows the number and says it out loud.
+4. **They order from the table.** Seat them with a tap and the table's QR opens your menu. Each round lands on the kitchen screen.
+5. **They pay, and have a reason to return.** Cash, PromptPay or a wallet app. Points and stamps go on their account, and they join your customer list.
+
+## Features
+
+- **A line that runs itself.** Lines by party size with their own numbers, wait times measured from today's seating, and the next guest called automatically when you want it.
+- **Your TV calls the numbers.** Big numbers for the whole doorway, with a chime and a voice in Thai and English.
+- **Ordering from the table.** A QR on every table: your menu, buffet packages with time limits, Refill and Bill please.
+- **A kitchen screen, not paper.** Every round by station. Tap a dish when it's ready, or mark it sold out.
+- **A till that adds up.** Service charge and VAT done right, cash with change, PromptPay, and wallet slips photographed by a paired phone.
+- **Guests who come back.** Every seated guest joins your customer list. Points, stamps and rewards they can spend on the bill.
+- **Every sale has a name.** Staff sign in with their own ID and PIN. A manager approves voids and refunds on the spot.
+- **Cash drawers and a time clock.** Each till opens with a count, cash in and out has a reason, and the close shows what's over or short — blind, if you like. Staff clock in with their PIN.
+- **Stock that counts itself.** Stock per branch moves when a bill is paid, recipes use their ingredients, and purchase orders, transfers and counts keep it true. Barcodes and sizes too.
+- **Reports you read at a glance.** Sales, staff, the menu, the queue, customers and stock, each a tab, any days against the days before. Build the dashboards your shop looks at every morning.
+- **Books your accountant can sign off.** The day's close, and every figure opens the bills behind it. Card and wallet takings matched against the bank, days checked and locked, and a journal for Xero or QuickBooks.
+- **Your own AI assistant.** Connect ChatGPT or Claude to your shop. It works as you, with only the permissions you give it, and asks before it changes anything.
+- **The log for when something goes wrong.** Every void, refund, discount, cash count and change, with who did it and who approved it, asked by day, action and person.
+- **One shop, many branches.** One menu with branch prices, staff who work at one branch or all of them, and each branch's sales beside the whole shop's.
+
+## Who it is for
+
+- **Restaurants and cafés.** Lines by table size, buffet packages and ordering from the table.
+- **Bars and KTV.** Small and large rooms with their own lines, and orders from the room.
+- **Barbers and salons.** Guests pick their stylist and what they came for. Each chair calls its own next.
+- **Spas and massage.** Guests choose a therapist and a treatment, and wait wherever they like.
+- **Clinics and dental.** Patients wait at home and come in when the doctor calls.
+- **Rooms by the hour.** Rooms let by the hour, the visit or the person, with the time on the bill.
+- **Shops and marts.** Scan barcodes at the till, count stock from day one, and keep one checkout line moving at the busy hour.
+- **Consultants online.** Clients pick a consultant and what they need, and wait wherever they are until they're called.
+
+## Questions
+
+### Do guests need to install an app?
+
+No. They scan your QR or use your shop's LINE, Messenger or Telegram, and the ticket opens in their phone's browser.
+
+### How do guests know it's their turn?
+
+Their ticket page turns green, chimes and vibrates; a LINE or Telegram message arrives (Messenger inside its 24-hour window); and your TV shows the number and announces it.
+
+### What if a guest doesn't come back?
+
+After the minutes you choose, the ticket is skipped on its own. If they turn up later, staff put them back at the front in one tap.
+
+### Do I need special hardware?
+
+No. Any phone, tablet or computer with a browser runs it, and any TV with a browser shows the waiting list. A camera or a USB scanner for check-in is optional: staff can tap the guest's number instead.
+
+### Is it only for restaurants?
+
+No. Barbers, salons, spas, clinics, KTV, rooms let by the hour, shops and marts use it too: guests can pick their stylist or doctor, rooms can be charged by the hour, by the visit or by the person, and a mart scans barcodes at the till.
+
+### Which payments can I take?
+
+Cash with change, PromptPay QR, cards, and wallet apps such as KBZPay, WavePay, AYA Pay, CB Pay, TrueMoney and MMQR. For a wallet payment a paired phone photographs the slip, so the bill keeps its proof.
+
+### Can I run more than one branch?
+
+Yes. One shop holds every branch: a shared menu with branch prices, staff who work at one branch or all of them, and sales for each branch and the whole shop.
+
+### Can my accountant work from it?
+
+Yes. Each day closes with a Z report, every figure opens the bills behind it, a refund is booked on the day it's made so a closed day never changes, card and wallet takings are matched against the bank, and the books download as an Excel workbook or a journal file for Xero or QuickBooks.
+
+### Does it keep track of stock?
+
+If you switch it on. Stock is kept per branch and moves when a bill is paid; dishes made of ingredients use them; purchase orders, transfers between branches, counts and adjustments keep it true; and you see its value and your gross profit. A shop or mart counts stock from the start.
+
+### Can ChatGPT or Claude work in my shop?
+
+Yes, as you and only as far as you allow: connect your own AI app, tick which of your permissions it gets, and it asks before it changes anything. Everything it does is in the activity log, and you can disconnect it any time.
+
+### Who can see my shop's data?
+
+Only your shop. Every shop's data is kept apart, chat app credentials are encrypted, staff see only what their role allows, and voids, refunds and other sensitive actions are recorded with who did them and who approved them.
+
+## Links
+
+- [Tansi](https://tansi.store/)
