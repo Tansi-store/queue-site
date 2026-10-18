@@ -62,6 +62,10 @@ No. Any phone, tablet or computer with a browser runs it, and any TV with a brow
 
 No. Barbers, salons, spas, clinics, KTV, rooms let by the hour, shops and marts use it too: guests can pick their stylist or doctor, rooms can be charged by the hour, by the visit or by the person, and a mart scans barcodes at the till.
 
+### Do I need a queue to use it?
+
+No. Choose “No, just the POS” when you create your shop and Tansi is your till: your menu, bills at the table or the counter, payments, customers, rewards, stock and the books. Turn the queue on in Shop settings the day a line forms at your door.
+
 ### Which payments can I take?
 
 Cash with change, PromptPay QR, cards, and wallet apps such as KBZPay, WavePay, AYA Pay, CB Pay, TrueMoney and MMQR. For a wallet payment a paired phone photographs the slip, so the bill keeps its proof.
