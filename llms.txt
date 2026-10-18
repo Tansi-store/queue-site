@@ -86,7 +86,13 @@ Yes, as you and only as far as you allow: connect your own AI app, tick which of
 
 Only your shop. Every shop's data is kept apart, chat app credentials are encrypted, staff see only what their role allows, and voids, refunds and other sensitive actions are recorded with who did them and who approved them.
 
+## In Burmese (မြန်မာ)
+
+Tansi (တန်းစီ) is made for shops in Myanmar and Thailand, and the whole app is in Burmese as well as English. QR တစ်ခု သို့မဟုတ် သင့်ဆိုင်ရဲ့ LINE၊ Messenger၊ Telegram ကနေ ဧည့်သည်တိုင်းကို တိုက်ရိုက် ပြောင်းလဲနေတဲ့ တန်းစီနံပါတ် ပေးပါ။ တစ်ချက်နှိပ်ရုံနဲ့ ခေါ်၊ စားပွဲကနေ အော်ဒါယူ၊ ငွေရှင်း၊ လက်ကျန်ရေတွက်၊ စာရင်းကိုင်အတွက် နေ့စာရင်းပိတ်ပြီး ပုံမှန်ဖောက်သည်တွေကို ပြန်လာစေပါ — အက်ပ်တစ်ခုတည်းနဲ့။
+
 ## Links
 
 - [Tansi](https://tansi.store/)
 - [Tansi in Burmese (မြန်မာ)](https://tansi.store/my/)
+- [Find a shop and join its queue](https://app.tansi.store/)
+- [Shops on Tansi](https://app.tansi.store/llms.txt)
