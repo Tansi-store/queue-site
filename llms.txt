@@ -100,3 +100,6 @@ Tansi (တန်းစီ) is made for shops in Myanmar and Thailand, and the wh
 - [Tansi in Burmese (မြန်မာ)](https://tansi.store/my/)
 - [Find a shop and join its queue](https://app.tansi.store/)
 - [Shops on Tansi](https://app.tansi.store/llms.txt)
+- [Privacy policy](https://tansi.store/privacy-policy)
+- [Terms and conditions](https://tansi.store/terms-and-conditions)
+- [Data deletion](https://tansi.store/data-deletion)
