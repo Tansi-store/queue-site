@@ -46,6 +46,10 @@ Every guest gets a live ticket from a QR at your door or your shop's LINE, Messe
 
 No. They scan your QR or use your shop's LINE, Messenger or Telegram, and the ticket opens in their phone's browser.
 
+### Will guests find my shop on Tansi?
+
+Yes. Every branch has its own page on Tansi with its hours, address and menu, and shops that take a queue are listed in Tansi's shop search, where guests look shops up by name or area. A shop that only uses the POS keeps its page but isn't listed.
+
 ### How do guests know it's their turn?
 
 Their ticket page turns green, chimes and vibrates; a LINE or Telegram message arrives (Messenger inside its 24-hour window); and your TV shows the number and announces it.
