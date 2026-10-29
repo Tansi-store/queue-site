@@ -27,6 +27,7 @@ Every guest gets a live ticket from a QR at your door or your shop's LINE, Messe
 - **Books your accountant can sign off.** The day's close, and every figure opens the bills behind it. Card and wallet takings matched against the bank, days checked and locked, and a journal for Xero or QuickBooks.
 - **Your own AI assistant.** Connect ChatGPT or Claude to your shop. It works as you, with only the permissions you give it, and asks before it changes anything.
 - **The log for when something goes wrong.** Every void, refund, discount, cash count and change, with who did it and who approved it, asked by day, action and person.
+- **Moving from Loyverse or Excel.** Choose the file Loyverse exports, or your own Excel sheet: items with their variants, prices and stock per branch, and customers with their points, come in as they are. You see what changes before anything is saved.
 - **One shop, many branches.** One menu with branch prices, staff who work at one branch or all of them, and each branch's sales beside the whole shop's.
 
 ## Who it is for
@@ -85,6 +86,10 @@ Yes. Each day closes with a Z report, every figure opens the bills behind it, a 
 ### Does it keep track of stock?
 
 If you switch it on. Stock is kept per branch and moves when a bill is paid; dishes made of ingredients use them; purchase orders, transfers between branches, counts and adjustments keep it true; and you see its value and your gross profit. A shop or mart counts stock from the start.
+
+### I use Loyverse. Can I bring my shop over?
+
+Yes. Export your items and your customers from Loyverse's Back Office and choose those files under Import in Tansi. Items come with their categories, variants, prices and costs, and the stock at each branch if you count stock; customers with their phone, email, points and visits. An Excel sheet works the same way, with a template to fill in. Tansi shows what it will add, update or leave out before anything is saved, and importing the same file again makes no copies. Loyverse's modifiers aren't brought yet.
 
 ### Can ChatGPT or Claude work in my shop?
 
