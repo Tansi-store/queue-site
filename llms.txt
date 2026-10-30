@@ -1,6 +1,6 @@
 # Tansi
 
-> Give every guest a live ticket from a QR or your shop's LINE, Messenger or Telegram. Call them in one tap, take orders at the table, get paid, count your stock, close the day for your accountant and bring regulars back — in one app.
+> Give every guest a live ticket from a QR or your shop's LINE, Messenger or Telegram. Call them in one tap, take orders at the table, get paid by MMQR, PromptPay or cash, count your stock, close the day for your accountant and bring regulars back — in one app.
 
 Every guest gets a live ticket from a QR at your door or your shop's LINE, Messenger or Telegram. They watch their place, come back when you call, order from the table and earn points when they pay — and the stock, the cash and the books add up behind them.
 
@@ -10,7 +10,15 @@ Every guest gets a live ticket from a QR at your door or your shop's LINE, Messe
 2. **They wait wherever they like.** The ticket updates live, so nobody crowds your door. Their chat says when they're nearly up.
 3. **One tap calls them in.** Their ticket turns green and chimes, and your TV shows the number and says it out loud.
 4. **They order from the table.** Seat them with a tap and the table's QR opens your menu. Each round lands on the kitchen screen.
-5. **They pay, and have a reason to return.** Cash, PromptPay or a wallet app. Points and stamps go on their account, and they join your customer list.
+5. **They pay, and have a reason to return.** Cash, MMQR, PromptPay or a wallet app. Points and stamps go on their account, and they join your customer list.
+
+## Take kyat by MMQR. The bill closes itself.
+
+Connect your shop's own MyanMyanPay account, and the till shows a QR for the bill's exact amount. Your guest pays from KBZPay, Wave, AYA Pay, CB Pay or any app that scans MMQR, and the bill closes by itself once they've paid.
+
+- No transfer screenshot to check, and no amount typed by hand.
+- The money goes straight to your own MyanMyanPay account. Tansi never holds it.
+- Cash, your own wallet QRs, PromptPay and a card machine sit beside it at the same till.
 
 ## Features
 
@@ -18,7 +26,7 @@ Every guest gets a live ticket from a QR at your door or your shop's LINE, Messe
 - **Your TV calls the numbers.** Big numbers for the whole doorway, with a chime and a voice in Thai and English.
 - **Ordering from the table.** A QR on every table: your menu, buffet packages with time limits, Refill and Bill please.
 - **A kitchen screen, not paper.** Every round by station. Tap a dish when it's ready, or mark it sold out.
-- **A till that adds up.** Service charge and VAT done right, cash with change, PromptPay, and wallet slips photographed by a paired phone.
+- **A till that adds up.** Service charge and VAT done right, cash with change, MMQR that closes the bill by itself, PromptPay, and wallet slips photographed by a paired phone.
 - **Guests who come back.** Every seated guest joins your customer list. Points, stamps and rewards they can spend on the bill.
 - **Every sale has a name.** Staff sign in with their own ID and PIN. A manager approves voids and refunds on the spot.
 - **Cash drawers and a time clock.** Each till opens with a count, cash in and out has a reason, and the close shows what's over or short — blind, if you like. Staff clock in with their PIN.
@@ -73,7 +81,11 @@ No. Choose “No, just the POS” when you create your shop and Tansi is your ti
 
 ### Which payments can I take?
 
-Cash with change, PromptPay QR, cards, and wallet apps such as KBZPay, WavePay, AYA Pay, CB Pay, TrueMoney and MMQR. For a wallet payment a paired phone photographs the slip, so the bill keeps its proof.
+Cash with change, MMQR, wallet apps such as KBZPay, WavePay, AYA Pay, CB Pay and TrueMoney, PromptPay QR, and cards on your own card machine. MMQR through your MyanMyanPay account closes the bill by itself once the guest pays. For another wallet, a paired phone photographs the guest's transfer, so the bill keeps its proof.
+
+### How do I start taking MMQR?
+
+Open a MyanMyanPay account for your shop, as a person or as a business, and create an application in their developer console. Paste its keys under Shop settings › Payments, and the till shows MMQR for every bill of K 1,000 or more; a smaller bill takes cash or your own wallet QR. MyanMyanPay approves your account before it takes real money, and what guests pay goes straight to that account: Tansi never holds it.
 
 ### Can I run more than one branch?
 
@@ -101,7 +113,7 @@ Only your shop. Every shop's data is kept apart, chat app credentials are encryp
 
 ## In Burmese (မြန်မာ)
 
-Tansi (တန်းစီ) is made for shops in Myanmar and Thailand, and the whole app is in Burmese as well as English. QR တစ်ခု သို့မဟုတ် သင့်ဆိုင်ရဲ့ LINE၊ Messenger၊ Telegram ကနေ ဧည့်သည်တိုင်းကို တိုက်ရိုက် ပြောင်းလဲနေတဲ့ တန်းစီနံပါတ် ပေးပါ။ တစ်ချက်နှိပ်ရုံနဲ့ ခေါ်၊ စားပွဲကနေ order ယူ၊ ငွေရှင်း၊ လက်ကျန်ရေတွက်၊ စာရင်းကိုင်အတွက် နေ့စာရင်းပိတ်ပြီး ပုံမှန်ဖောက်သည်တွေကို ပြန်လာစေပါ — app တစ်ခုတည်းနဲ့။
+Tansi (တန်းစီ) is made for shops in Myanmar and Thailand, and the whole app is in Burmese as well as English. QR တစ်ခု သို့မဟုတ် သင့်ဆိုင်ရဲ့ LINE၊ Messenger၊ Telegram ကနေ ဧည့်သည်တိုင်းကို တိုက်ရိုက် ပြောင်းလဲနေတဲ့ တန်းစီနံပါတ် ပေးပါ။ တစ်ချက်နှိပ်ရုံနဲ့ ခေါ်၊ စားပွဲကနေ order ယူ၊ MMQR သို့မဟုတ် ငွေသားနဲ့ ငွေရှင်း၊ လက်ကျန်ရေတွက်၊ စာရင်းကိုင်အတွက် နေ့စာရင်းပိတ်ပြီး ပုံမှန်ဖောက်သည်တွေကို ပြန်လာစေပါ — app တစ်ခုတည်းနဲ့။
 
 ## Links
 
